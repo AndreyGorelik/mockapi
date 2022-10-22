@@ -14,7 +14,7 @@
                 "supplements": [
                     {"id": "cheese", "name": "Сырный борт", "price": 30},
                     {"id": "sauce", "name": "Соус", "price": 10},
-                    {"id": "sausage", "name": "Хот-дог борт", "price": 50},
+                    {"id": "sausage", "name": "Хот-дог борт", "price": 50}
                 ],
                 "imageUrl": "https://static.1000.menu/img/content-v2/ef/27/10853/picca-margarita-v-domashnix-usloviyax_1608783820_4_max.jpg"
             },
@@ -30,7 +30,7 @@
                "supplements": [
                     {"id": "cheese", "name": "Сырный борт", "price": 30},
                     {"id": "sauce", "name": "Соус", "price": 10},
-                    {"id": "sausage", "name": "Хот-дог борт", "price": 50},
+                    {"id": "sausage", "name": "Хот-дог борт", "price": 50}
                 ],
                 "imageUrl": "https://static.1000.menu/img/content-v2/85/ff/6190/pitstsa-pepperoni-_1612599986_22_max.jpg"
             },
@@ -46,7 +46,7 @@
                "supplements": [
                     {"id": "cheese", "name": "Сырный борт", "price": 30},
                     {"id": "sauce", "name": "Соус", "price": 10},
-                    {"id": "sausage", "name": "Хот-дог борт", "price": 50},
+                    {"id": "sausage", "name": "Хот-дог борт", "price": 50}
                 ],
                 "imageUrl": "https://thebest.kz/assets/images/4-sezona-picca.jpg"
             },
@@ -62,7 +62,7 @@
                "supplements": [
                     {"id": "cheese", "name": "Сырный борт", "price": 30},
                     {"id": "sauce", "name": "Соус", "price": 10},
-                    {"id": "sausage", "name": "Хот-дог борт", "price": 50},
+                    {"id": "sausage", "name": "Хот-дог борт", "price": 50}
                 ],
                 "imageUrl": "https://www.gastronom.ru/binfiles/images/00000016/00022613.jpg"
             }
