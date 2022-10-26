@@ -1,10 +1,11 @@
 {
     "pizza": {
+        "id": 1,
         "categoryName": "Пицца",
         "products":  [
             {
                 "category": "Пицца",
-                "id": 1,
+                "id": 10,
                 "title": "Маргарита",
                 "price": [
                     {"id": "small", "title": "Маленькая (30 см)", "price": 200},
@@ -15,7 +16,7 @@
             },
             {
                 "category": "Пицца",
-                "id": 2,
+                "id": 11,
                 "title": "Пепперони",
                  "price": [
                     {"id": "small", "title": "Маленькая (30 см)", "price": 200},
@@ -26,7 +27,7 @@
             },
             {
                 "category": "Пицца",
-                "id": 3,
+                "id": 12,
                 "title": "4 сезона",
                 "price": [
                     {"id": "small", "title": "Маленькая (30 см)", "price": 200},
@@ -37,7 +38,7 @@
             },
             {
                 "category": "Пицца",
-                "id": 4,
+                "id": 13,
                 "title": "Морская",
                  "price": [
                     {"id": "small", "title": "Маленькая (30 см)", "price": 200},
@@ -56,6 +57,7 @@
     
 
     "wok": {
+        "id": 2,
         "categoryName": "WOK",
         "products": [
             {
