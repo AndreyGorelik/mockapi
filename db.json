@@ -11,11 +11,6 @@
                     {"id": "medium", "title": "Средняя (36 см)", "price": 300},
                     {"id": "large", "title": "Большая (40 см)", "price": 400}
                 ],
-                "supplements": [
-                    {"id": "cheese", "title": "Сырный борт", "price": 30},
-                    {"id": "sauce", "title": "Соус", "price": 10},
-                    {"id": "sausage", "title": "Хот-дог борт", "price": 50}
-                ],
                 "imageUrl": "https://static.1000.menu/img/content-v2/ef/27/10853/picca-margarita-v-domashnix-usloviyax_1608783820_4_max.jpg"
             },
             {
@@ -26,11 +21,6 @@
                     {"id": "small", "title": "Маленькая (30 см)", "price": 200},
                     {"id": "medium", "title": "Средняя (36 см)", "price": 300},
                     {"id": "large", "title": "Большая (40 см)", "price": 400}
-                ],
-               "supplements": [
-                    {"id": "cheese", "title": "Сырный борт", "price": 30},
-                    {"id": "sauce", "title": "Соус", "price": 10},
-                    {"id": "sausage", "title": "Хот-дог борт", "price": 50}
                 ],
                 "imageUrl": "https://static.1000.menu/img/content-v2/85/ff/6190/pitstsa-pepperoni-_1612599986_22_max.jpg"
             },
@@ -43,11 +33,6 @@
                     {"id": "medium", "title": "Средняя (36 см)", "price": 300},
                     {"id": "large", "title": "Большая (40 см)", "price": 400}
                 ],
-               "supplements": [
-                    {"id": "cheese", "title": "Сырный борт", "price": 30},
-                    {"id": "sauce", "title": "Соус", "price": 10},
-                    {"id": "sausage", "title": "Хот-дог борт", "price": 50}
-                ],
                 "imageUrl": "https://thebest.kz/assets/images/4-sezona-picca.jpg"
             },
             {
@@ -59,14 +44,14 @@
                     {"id": "medium", "title": "Средняя (36 см)", "price": 300},
                     {"id": "large", "title": "Большая (40 см)", "price": 400}
                 ],
-               "supplements": [
+                "imageUrl": "https://www.gastronom.ru/binfiles/images/00000016/00022613.jpg"
+            }
+        ],
+        "supplements": [
                     {"id": "cheese", "title": "Сырный борт", "price": 30},
                     {"id": "sauce", "title": "Соус", "price": 10},
                     {"id": "sausage", "title": "Хот-дог борт", "price": 50}
                 ],
-                "imageUrl": "https://www.gastronom.ru/binfiles/images/00000016/00022613.jpg"
-            }
-        ]
     },
     
 
