@@ -51,7 +51,7 @@
                     {"id": "cheese", "title": "Сырный борт", "price": 30},
                     {"id": "sauce", "title": "Соус", "price": 10},
                     {"id": "sausage", "title": "Хот-дог борт", "price": 50}
-                ],
+                ]
     },
     
 
