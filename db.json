@@ -8,7 +8,7 @@
                 "id": 10,
                 "title": "Маргарита",
                 "price": [
-                    {"id": "small", "title": "Маленькая (30 см)", "price": 200},
+                    {"id": "small", "title": "Маленькая (30 см)", "price": 240},
                     {"id": "medium", "title": "Средняя (36 см)", "price": 300},
                     {"id": "large", "title": "Большая (40 см)", "price": 400}
                 ],
@@ -19,7 +19,7 @@
                 "id": 11,
                 "title": "Пепперони",
                  "price": [
-                    {"id": "small", "title": "Маленькая (30 см)", "price": 200},
+                    {"id": "small", "title": "Маленькая (30 см)", "price": 220},
                     {"id": "medium", "title": "Средняя (36 см)", "price": 300},
                     {"id": "large", "title": "Большая (40 см)", "price": 400}
                 ],
@@ -30,7 +30,7 @@
                 "id": 12,
                 "title": "4 сезона",
                 "price": [
-                    {"id": "small", "title": "Маленькая (30 см)", "price": 200},
+                    {"id": "small", "title": "Маленькая (30 см)", "price": 270},
                     {"id": "medium", "title": "Средняя (36 см)", "price": 300},
                     {"id": "large", "title": "Большая (40 см)", "price": 400}
                 ],
