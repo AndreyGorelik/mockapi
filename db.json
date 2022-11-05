@@ -5,7 +5,7 @@
         "label": "Пицца",
         "products": [
             {
-                "category": "Пицца",
+                "category": "pizza",
                 "name": "margarita",
                 "label": "Маргарита",
                 "price": [
@@ -28,7 +28,7 @@
                 "imageUrl": "https://static.1000.menu/img/content-v2/ef/27/10853/picca-margarita-v-domashnix-usloviyax_1608783820_4_max.jpg"
             },
             {
-                "category": "Пицца",
+                "category": "pizza",
                 "name": "pepperoni",
                 "label": "Пепперони",
                 "price": [
@@ -51,7 +51,7 @@
                 "imageUrl": "https://static.1000.menu/img/content-v2/85/ff/6190/pitstsa-pepperoni-_1612599986_22_max.jpg"
             },
             {
-                "category": "Пицца",
+                "category": "pizza",
                 "name": "4seasons",
                 "label": "4 сезона",
                 "price": [
@@ -74,7 +74,7 @@
                 "imageUrl": "https://thebest.kz/assets/images/4-sezona-picca.jpg"
             },
             {
-                "category": "Пицца",
+                "category": "pizza",
                 "name": "sea",
                 "label": "Морская",
                 "price": [
@@ -121,28 +121,28 @@
         "label": "WOK",
         "products": [
             {
-                "category": "WOK",
+                "category": "wok",
                 "name": "chicken",
                 "label": "Курица",
                 "price": 200,
                 "imageUrl": "https://wok.by/upload/iblock/7cc/7cce00e0e7767d374f333ec614dfb509.png"
             },
             {
-                "category": "WOK",
+                "category": "wok",
                 "name": "beef",
                 "label": "Говядина",
                 "price": 300,
                 "imageUrl": "https://wok.by/upload/iblock/5a0/5a0477ae63186aeb32b274c21939febc.png"
             },
             {
-                "category": "WOK",
+                "category": "wok",
                 "name": "margarita",
                 "label": "shrimps",
                 "price": 400,
                 "imageUrl": "https://wok.by/upload/iblock/0ba/0bac2b7b33cb021b2e48e985e6e59ddb.png"
             },
             {
-                "category": "WOK",
+                "category": "wok",
                 "name": "vegeterian",
                 "label": "Вегетерианский",
                 "price": 1000,
