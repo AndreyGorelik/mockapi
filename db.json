@@ -244,7 +244,8 @@
                         "label": "1 л.",
                         "price": 8
                     }
-                ]
+                ],
+                "imageUrl": "https://ostrov-shop.by/upload/resize_cache/webp/iblock/690/qgr9vth7lizaofxkn67335yv0nfru5mo.webp"
             },
             {
                 "category": "beverages",
@@ -261,7 +262,8 @@
                         "label": "1 л.",
                         "price": 8
                     }
-                ]
+                ],
+                "imageUrl": "https://www.officeton.by/upload/resize_cache/slam.image/iblock/7a7/7a7ec54cd04a4f05beea739eac5d004d.jpg"
             },
             {
                 "category": "beverages",
@@ -278,7 +280,8 @@
                         "label": "1 л.",
                         "price": 8
                     }
-                ]
+                ],
+                "imageUrl": "https://coca-cola.by/uploads/media/02/SPR_Mint_922x755.png"
             }
         ]
     }
