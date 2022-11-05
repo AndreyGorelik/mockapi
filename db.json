@@ -183,21 +183,25 @@
         "label": "Суши",
         "products": [
             {
+                "category": "sushi",
                 "label": "Сет №1",
                 "price": 200,
                 "imageUrl": "https://cdn.foodpicasso.com/assets/2021/03/23/319769ef93289bfc0212fc8a5f6bd777---jpg_420x420:whitepadding15_94310_convert.webp"
             },
             {
+                "category": "sushi",
                 "label": "Сет №2",
                 "price": 300,
                 "imageUrl": "https://cdn.foodpicasso.com/assets/2021/03/23/319769ef93289bfc0212fc8a5f6bd777---jpg_420x420:whitepadding15_94310_convert.webp"
             },
             {
+                "category": "sushi",
                 "label": "Сет №3",
                 "price": 400,
                 "imageUrl": "https://cdn.foodpicasso.com/assets/2021/03/23/319769ef93289bfc0212fc8a5f6bd777---jpg_420x420:whitepadding15_94310_convert.webp"
             },
             {
+                "category": "sushi",
                 "label": "Сет №4",
                 "price": 1000,
                 "imageUrl": "https://cdn.foodpicasso.com/assets/2021/03/23/319769ef93289bfc0212fc8a5f6bd777---jpg_420x420:whitepadding15_94310_convert.webp"
@@ -226,6 +230,7 @@
         "label": "Напитки",
         "products": [
             {
+                "category": "beverages",
                 "name": "cola",
                 "label": "Coca-Cola",
                 "price": [
@@ -242,6 +247,7 @@
                 ]
             },
             {
+                "category": "beverages",
                 "name": "fanta",
                 "label": "Fanta",
                 "price": [
@@ -258,6 +264,7 @@
                 ]
             },
             {
+                "category": "beverages",
                 "name": "sprite",
                 "label": "Sprite",
                 "price": [
