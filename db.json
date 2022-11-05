@@ -236,12 +236,12 @@
                 "price": [
                     {
                         "name": "small",
-                        "title": "0,5 л.",
+                        "label": "0,5 л.",
                         "price": 6
                     },
                     {
                         "name": "medium",
-                        "title": "1 л.",
+                        "label": "1 л.",
                         "price": 8
                     }
                 ]
@@ -253,12 +253,12 @@
                 "price": [
                     {
                         "name": "small",
-                        "title": "0,5 л.",
+                        "label": "0,5 л.",
                         "price": 6
                     },
                     {
                         "name": "medium",
-                        "title": "1 л.",
+                        "label": "1 л.",
                         "price": 8
                     }
                 ]
@@ -270,12 +270,12 @@
                 "price": [
                     {
                         "name": "small",
-                        "title": "0,5 л.",
+                        "label": "0,5 л.",
                         "price": 6
                     },
                     {
                         "name": "medium",
-                        "title": "1 л.",
+                        "label": "1 л.",
                         "price": 8
                     }
                 ]
