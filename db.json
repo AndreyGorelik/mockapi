@@ -6,7 +6,7 @@
         "products": [
             {
                 "category": "Пицца",
-                "id": 10,
+                "name": "margarita",
                 "label": "Маргарита",
                 "price": [
                     {
@@ -29,7 +29,7 @@
             },
             {
                 "category": "Пицца",
-                "id": 11,
+                "name": "pepperoni",
                 "label": "Пепперони",
                 "price": [
                     {
@@ -52,7 +52,7 @@
             },
             {
                 "category": "Пицца",
-                "id": 12,
+                "name": "4seasons",
                 "label": "4 сезона",
                 "price": [
                     {
@@ -75,7 +75,7 @@
             },
             {
                 "category": "Пицца",
-                "id": 13,
+                "name": "sea",
                 "label": "Морская",
                 "price": [
                     {
