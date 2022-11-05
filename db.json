@@ -1,94 +1,278 @@
 {
     "pizza": {
         "id": 1,
-        "categoryName": "Пицца",
-        "products":  [
+        "name": "pizza",
+        "label": "Пицца",
+        "products": [
             {
                 "category": "Пицца",
                 "id": 10,
-                "title": "Маргарита",
+                "label": "Маргарита",
                 "price": [
-                    {"id": "small", "title": "Маленькая (30 см)", "price": 240},
-                    {"id": "medium", "title": "Средняя (36 см)", "price": 300},
-                    {"id": "large", "title": "Большая (40 см)", "price": 400}
+                    {
+                        "name": "small",
+                        "label": "Маленькая (30 см)",
+                        "price": 240
+                    },
+                    {
+                        "name": "medium",
+                        "label": "Средняя (36 см)",
+                        "price": 300
+                    },
+                    {
+                        "name": "large",
+                        "label": "Большая (40 см)",
+                        "price": 400
+                    }
                 ],
                 "imageUrl": "https://static.1000.menu/img/content-v2/ef/27/10853/picca-margarita-v-domashnix-usloviyax_1608783820_4_max.jpg"
             },
             {
                 "category": "Пицца",
                 "id": 11,
-                "title": "Пепперони",
-                 "price": [
-                    {"id": "small", "title": "Маленькая (30 см)", "price": 220},
-                    {"id": "medium", "title": "Средняя (36 см)", "price": 300},
-                    {"id": "large", "title": "Большая (40 см)", "price": 400}
+                "label": "Пепперони",
+                "price": [
+                    {
+                        "name": "small",
+                        "label": "Маленькая (30 см)",
+                        "price": 220
+                    },
+                    {
+                        "name": "medium",
+                        "label": "Средняя (36 см)",
+                        "price": 300
+                    },
+                    {
+                        "name": "large",
+                        "label": "Большая (40 см)",
+                        "price": 400
+                    }
                 ],
                 "imageUrl": "https://static.1000.menu/img/content-v2/85/ff/6190/pitstsa-pepperoni-_1612599986_22_max.jpg"
             },
             {
                 "category": "Пицца",
                 "id": 12,
-                "title": "4 сезона",
+                "label": "4 сезона",
                 "price": [
-                    {"id": "small", "title": "Маленькая (30 см)", "price": 270},
-                    {"id": "medium", "title": "Средняя (36 см)", "price": 300},
-                    {"id": "large", "title": "Большая (40 см)", "price": 400}
+                    {
+                        "name": "small",
+                        "label": "Маленькая (30 см)",
+                        "price": 270
+                    },
+                    {
+                        "name": "medium",
+                        "label": "Средняя (36 см)",
+                        "price": 300
+                    },
+                    {
+                        "name": "large",
+                        "label": "Большая (40 см)",
+                        "price": 400
+                    }
                 ],
                 "imageUrl": "https://thebest.kz/assets/images/4-sezona-picca.jpg"
             },
             {
                 "category": "Пицца",
                 "id": 13,
-                "title": "Морская",
-                 "price": [
-                    {"id": "small", "title": "Маленькая (30 см)", "price": 200},
-                    {"id": "medium", "title": "Средняя (36 см)", "price": 300},
-                    {"id": "large", "title": "Большая (40 см)", "price": 400}
+                "label": "Морская",
+                "price": [
+                    {
+                        "name": "small",
+                        "label": "Маленькая (30 см)",
+                        "price": 200
+                    },
+                    {
+                        "name": "medium",
+                        "label": "Средняя (36 см)",
+                        "price": 300
+                    },
+                    {
+                        "name": "large",
+                        "label": "Большая (40 см)",
+                        "price": 400
+                    }
                 ],
                 "imageUrl": "https://www.gastronom.ru/binfiles/images/00000016/00022613.jpg"
             }
         ],
         "supplements": [
-                    {"id": "cheese", "title": "Сырный борт", "price": 30},
-                    {"id": "sauce", "title": "Соус", "price": 10},
-                    {"id": "sausage", "title": "Хот-дог борт", "price": 50}
-                ]
+            {
+                "name": "cheese",
+                "label": "Сырный борт",
+                "price": 30
+            },
+            {
+                "name": "sauce",
+                "label": "Соус",
+                "price": 10
+            },
+            {
+                "name": "sausage",
+                "label": "Хот-дог борт",
+                "price": 50
+            }
+        ]
     },
-    
-
     "wok": {
         "id": 2,
-        "categoryName": "WOK",
+        "name": "wok",
+        "label": "WOK",
         "products": [
             {
                 "category": "WOK",
                 "id": 5,
-                "name": "Курица",
+                "label": "Курица",
                 "price": 200,
                 "imageUrl": "https://wok.by/upload/iblock/7cc/7cce00e0e7767d374f333ec614dfb509.png"
             },
             {
                 "category": "WOK",
                 "id": 6,
-                "name": "Говядина",
+                "label": "Говядина",
                 "price": 300,
                 "imageUrl": "https://wok.by/upload/iblock/5a0/5a0477ae63186aeb32b274c21939febc.png"
             },
             {
                 "category": "WOK",
                 "id": 7,
-                "name": "Креветки",
+                "label": "Креветки",
                 "price": 400,
                 "imageUrl": "https://wok.by/upload/iblock/0ba/0bac2b7b33cb021b2e48e985e6e59ddb.png"
             },
             {
                 "category": "WOK",
                 "id": 8,
-                "name": "Вегетерианский",
+                "label": "Вегетерианский",
                 "price": 1000,
                 "imageUrl": "https://wok.by/upload/iblock/0c1/0c1941ae2b33056a87ab79b47f2745c2.png"
             }
+        ],
+        "supplements": [
+            {
+                "name": "spicy",
+                "label": "Острый соус",
+                "price": 30
+            },
+            {
+                "name": "tofu",
+                "label": "Тофу",
+                "price": 10
+            },
+            {
+                "name": "shiitake",
+                "label": "Шиитаке",
+                "price": 50
+            },
+            {
+                "name": "chicken",
+                "label": "Доп. курица",
+                "price": 15
+            },
+            {
+                "name": "cherry",
+                "label": "Томаты черри",
+                "price": 27
+            }
+        ]
+    },
+    "sushi": {
+        "id": 2,
+        "name": "sushi",
+        "label": "Суши",
+        "products": [
+            {
+                "label": "Сет №1",
+                "price": 200,
+                "imageUrl": "https://cdn.foodpicasso.com/assets/2021/03/23/319769ef93289bfc0212fc8a5f6bd777---jpg_420x420:whitepadding15_94310_convert.webp"
+            },
+            {
+                "label": "Сет №2",
+                "price": 300,
+                "imageUrl": "https://cdn.foodpicasso.com/assets/2021/03/23/319769ef93289bfc0212fc8a5f6bd777---jpg_420x420:whitepadding15_94310_convert.webp"
+            },
+            {
+                "label": "Сет №3",
+                "price": 400,
+                "imageUrl": "https://cdn.foodpicasso.com/assets/2021/03/23/319769ef93289bfc0212fc8a5f6bd777---jpg_420x420:whitepadding15_94310_convert.webp"
+            },
+            {
+                "label": "Сет №4",
+                "price": 1000,
+                "imageUrl": "https://cdn.foodpicasso.com/assets/2021/03/23/319769ef93289bfc0212fc8a5f6bd777---jpg_420x420:whitepadding15_94310_convert.webp"
+            }
+        ],
+        "supplements": [
+            {
+                "name": "sauce",
+                "label": "Соевый соус",
+                "price": 3
+            },
+            {
+                "name": "ginger",
+                "label": "Имбирь",
+                "price": 5
+            },
+            {
+                "name": "wasabi",
+                "label": "Васаби",
+                "price": 8
+            }
+        ]
+    },
+    "beverages": {
+        "name": "beverages",
+        "label": "Напитки",
+        "products": [
+            {
+                "name": "cola",
+                "label": "Coca-Cola",
+                "price": [
+                    {
+                        "name": "small",
+                        "title": "0,5 л.",
+                        "price": 6
+                    },
+                    {
+                        "name": "medium",
+                        "title": "1 л.",
+                        "price": 8
+                    }
+                ]
+            },
+            {
+                "name": "fanta",
+                "label": "Fanta",
+                "price": [
+                    {
+                        "name": "small",
+                        "title": "0,5 л.",
+                        "price": 6
+                    },
+                    {
+                        "name": "medium",
+                        "title": "1 л.",
+                        "price": 8
+                    }
+                ]
+            },
+            {
+                "name": "sprite",
+                "label": "Sprite",
+                "price": [
+                    {
+                        "name": "small",
+                        "title": "0,5 л.",
+                        "price": 6
+                    },
+                    {
+                        "name": "medium",
+                        "title": "1 л.",
+                        "price": 8
+                    }
+                ]
+            }
         ]
     }
-    
 }
