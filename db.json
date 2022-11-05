@@ -122,28 +122,28 @@
         "products": [
             {
                 "category": "WOK",
-                "id": 5,
+                "name": "chicken",
                 "label": "Курица",
                 "price": 200,
                 "imageUrl": "https://wok.by/upload/iblock/7cc/7cce00e0e7767d374f333ec614dfb509.png"
             },
             {
                 "category": "WOK",
-                "id": 6,
+                "name": "beef",
                 "label": "Говядина",
                 "price": 300,
                 "imageUrl": "https://wok.by/upload/iblock/5a0/5a0477ae63186aeb32b274c21939febc.png"
             },
             {
                 "category": "WOK",
-                "id": 7,
-                "label": "Креветки",
+                "name": "margarita",
+                "label": "shrimps",
                 "price": 400,
                 "imageUrl": "https://wok.by/upload/iblock/0ba/0bac2b7b33cb021b2e48e985e6e59ddb.png"
             },
             {
                 "category": "WOK",
-                "id": 8,
+                "name": "vegeterian",
                 "label": "Вегетерианский",
                 "price": 1000,
                 "imageUrl": "https://wok.by/upload/iblock/0c1/0c1941ae2b33056a87ab79b47f2745c2.png"
