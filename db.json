@@ -6,112 +6,207 @@
         "products": [
             {
                 "category": "pizza",
-                "name": "margarita",
-                "label": "Маргарита",
+                "name": "ohotnichya",
+                "label": "Охотничья",
+                "description": "Охотничьи колбаски, томаты, огурчики, горчичный соус, моцарелла",
                 "price": [
                     {
                         "name": "small",
                         "label": "Маленькая (30 см)",
-                        "price": 240
+                        "price": 20
                     },
                     {
                         "name": "medium",
                         "label": "Средняя (36 см)",
-                        "price": 300
+                        "price": 25
                     },
                     {
                         "name": "large",
                         "label": "Большая (40 см)",
-                        "price": 400
+                        "price": 29
+                    }
+                ],
+                "imageUrl": "https://downloader.disk.yandex.ru/preview/51841ee352bc120d1c8b7ee2c0a244fd7a9473074ff9f549598c5422a917d743/6388ade8/OhxE8yEpWJvucpDgAjIvsTimIu81FtvnNGJyX0HbijNtJfbxMUE8avh3b0Ho0a-LlVO-1SKRm8hI0mnThoxpgA%3D%3D?uid=0&filename=ohotnichya.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v2&size=1920x961"
+            },
+            {
+                "category": "pizza",
+                "name": "pepperoni",
+                "label": "Пепперони",
+                "description": "Томатный соус, увеличенная порция сыра моцарелла, колбаска пепперони, орегано",
+                "price": [
+                    {
+                        "name": "small",
+                        "label": "Маленькая (30 см)",
+                        "price": 18
+                    },
+                    {
+                        "name": "medium",
+                        "label": "Средняя (36 см)",
+                        "price": 24
+                    },
+                    {
+                        "name": "large",
+                        "label": "Большая (40 см)",
+                        "price": 27
+                    }
+                ],
+                "imageUrl": "https://downloader.disk.yandex.ru/preview/2b8a480bcb1e9f23a6ed34b552e60e25a0320b67761ed187fc8be77e5c26ae23/6388ade8/22YeWBvLCi4IegzfOKPsCjimIu81FtvnNGJyX0HbijM3zMar7N5MOetyInQTgaWR3gppB4HNW-i56E6TkIwvnw%3D%3D?uid=0&filename=pepperoni.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v2&size=1920x961"
+            },
+            {
+                "category": "pizza",
+                "name": "myasnaya",
+                "label": "Мясная",
+                "description": "Томатный соус, свинина, бекон, охотничьи колбаски, цыпленок, пепперони, сыр моцарелла.",
+                "price": [
+                    {
+                        "name": "small",
+                        "label": "Маленькая (30 см)",
+                        "price": 25
+                    },
+                    {
+                        "name": "medium",
+                        "label": "Средняя (36 см)",
+                        "price": 29
+                    },
+                    {
+                        "name": "large",
+                        "label": "Большая (40 см)",
+                        "price": 33
+                    }
+                ],
+                "imageUrl": "https://downloader.disk.yandex.ru/preview/2087796c393404c910ea55c7bd8323b84e6f5e62b4c7f95df6648d9ef16b14b8/6388ade8/fwInNY30epuwhXn6UNvftDimIu81FtvnNGJyX0HbijPS4JaeGGxLAQLfcMBNriGJSW_guoxCqXOxvwcBmfhD8Q%3D%3D?uid=0&filename=myasnaya.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v2&size=1920x961"
+            },
+            {
+                "category": "pizza",
+                "name": "barbeque",
+                "label": "Барбекю",
+                "description":"Курочка копченая, бекон, красный лук, моцарелла, томатный соус, соус Барбекю",
+                "price": [
+                    {
+                        "name": "small",
+                        "label": "Маленькая (30 см)",
+                        "price": 20
+                    },
+                    {
+                        "name": "medium",
+                        "label": "Средняя (36 см)",
+                        "price": 25
+                    },
+                    {
+                        "name": "large",
+                        "label": "Большая (40 см)",
+                        "price": 27
                     }
                 ],
                 "imageUrl": "https://downloader.disk.yandex.ru/preview/f8b9dba602b6a0062d349507f4c34bebee698b0d49d7d8fa0c77d6374f8ad614/6388ade8/Jde04pTzavkgJ1XLLYpcuqvJcUg1Cr0VC42UMvnWbyJdem_AeG6AqDZsW0WRNaTUw5yOwqyfwUlWxWyIgmutag%3D%3D?uid=0&filename=barbeque.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v2&size=1920x961"
             },
             {
                 "category": "pizza",
-                "name": "pepperoni",
-                "label": "Пепперони",
+                "name": "4syra",
+                "label": "Четыре сыра",
+                "description":"Сливочный соус, увеличенная порция моцареллы, пармезан, чеддер, блю чиз",
                 "price": [
                     {
                         "name": "small",
                         "label": "Маленькая (30 см)",
-                        "price": 220
+                        "price": 21
                     },
                     {
                         "name": "medium",
                         "label": "Средняя (36 см)",
-                        "price": 300
+                        "price": 24
                     },
                     {
                         "name": "large",
                         "label": "Большая (40 см)",
-                        "price": 400
+                        "price": 28
                     }
                 ],
-                "imageUrl": "https://static.1000.menu/img/content-v2/85/ff/6190/pitstsa-pepperoni-_1612599986_22_max.jpg"
+                "imageUrl": "https://downloader.disk.yandex.ru/preview/41ad59cbebff620bc64590438bcac34ed4ce48825d9592589df946a4d257515d/6388b05b/_MNlZMwNXGAx3OtuEDHoaaU9EmixR6vK1RKR5O49_vQr5bZ5Ondt4E_B72ijUZFPiTa4U2iKkdVoFUlioaJ42Q%3D%3D?uid=0&filename=4syra.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v2&size=1920x961"
             },
             {
                 "category": "pizza",
-                "name": "4seasons",
-                "label": "4 сезона",
+                "name": "bavarskaya",
+                "label": "Баварская",
+                "description":"Горчичный соус, охотничьи колбаски, бекон, огурчики, лук фри, моцарелла",
                 "price": [
                     {
                         "name": "small",
                         "label": "Маленькая (30 см)",
-                        "price": 270
+                        "price": 23
                     },
                     {
                         "name": "medium",
                         "label": "Средняя (36 см)",
-                        "price": 300
+                        "price": 28
                     },
                     {
                         "name": "large",
                         "label": "Большая (40 см)",
-                        "price": 400
+                        "price": 31
                     }
                 ],
-                "imageUrl": "https://thebest.kz/assets/images/4-sezona-picca.jpg"
+                "imageUrl": "https://downloader.disk.yandex.ru/preview/1a94a88306ba458331caa7ced1a32d7d55e8c94e62ec2bd8b152ff58eb5f6a73/6388b05b/IfTc5H2NC7gUjr0ueiQXrzvQ0lzlDzr1RHgN4lZ7M4ApiCafVByO6uL_YeSmV7-jIFglO06wPD16BiAEXXyAoQ%3D%3D?uid=0&filename=bavarskaya.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v2&size=1920x961"
             },
             {
                 "category": "pizza",
-                "name": "sea",
-                "label": "Морская",
+                "name": "gavayskaya",
+                "label": "Гавайская",
+                "description":"Томатный соус, много цыпленка, ананасы, сыр моцарелла.",
                 "price": [
                     {
                         "name": "small",
                         "label": "Маленькая (30 см)",
-                        "price": 200
+                        "price": 22
                     },
                     {
                         "name": "medium",
                         "label": "Средняя (36 см)",
-                        "price": 300
+                        "price": 25
                     },
                     {
                         "name": "large",
                         "label": "Большая (40 см)",
-                        "price": 400
+                        "price": 28
                     }
                 ],
-                "imageUrl": "https://www.gastronom.ru/binfiles/images/00000016/00022613.jpg"
+                "imageUrl": "https://downloader.disk.yandex.ru/preview/cbb75095471387545cd3a91d8b326376b3c4f4ce488f3183eff387cdd4c14b36/6388b05b/3oeMrNIFoIH-FI3QKZs4S6U9EmixR6vK1RKR5O49_vR42TtGI6usMXxWUC6g9eNFpLEI2o4ATqm7nrU6Meny8w%3D%3D?uid=0&filename=gavaiskaya.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v2&size=1920x961"
+            },
+            {
+                "category": "pizza",
+                "name": "gribnaya",
+                "label": "Грибная",
+                "description": "Сливочный соус Ранч, двойная порция шампиньонов, сыр моцарелла, ветчина",
+                "price": [
+                    {
+                        "name": "small",
+                        "label": "Маленькая (30 см)",
+                        "price": 21
+                    },
+                    {
+                        "name": "medium",
+                        "label": "Средняя (36 см)",
+                        "price": 24
+                    },
+                    {
+                        "name": "large",
+                        "label": "Большая (40 см)",
+                        "price": 26
+                    }
+                ],
+                "imageUrl": "https://downloader.disk.yandex.ru/preview/5f1bea24bce2cfa614d4ef682ddd9f7462f4067fb9f6df68d94e09d399c3924e/6388b05b/GPjpvs0ZDt53L9BOgLkOHzvQ0lzlDzr1RHgN4lZ7M4DN_puthpeX5g-3bzCD02ybUo2Em-GHd2E-7tDbc5Lb5A%3D%3D?uid=0&filename=gribnaya.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v2&size=1920x961"
             }
         ],
         "supplements": [
             {
                 "name": "cheese",
                 "label": "Сырный борт",
-                "price": 30
-            },
-            {
-                "name": "sauce",
-                "label": "Соус",
-                "price": 10
+                "price": 2
             },
             {
                 "name": "sausage",
                 "label": "Хот-дог борт",
-                "price": 50
+                "price": 2
             }
         ]
     },
